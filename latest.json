@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "bootstrap",
-  "apkUrl": "https://example.com/placeholder.apk",
+  "versionCode": 1008,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/GeniusTaxi/Driverapp-Updates/releases/download/v1.0.8/app-1008.apk",
   "sha256": "",
-  "releaseNotes": "Bootstrap placeholder until first build."
+  "releaseNotes": "1.0.8: fixes and improvements."
 }
