@@ -1,7 +1,7 @@
 {
-  "versionCode": 1008,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/GeniusTaxi/Driverapp-Updates/releases/download/v1.0.8/app-1008.apk",
+  "versionCode": 1009,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/GeniusTaxi/Driverapp-Updates/releases/download/v1.0.9/app-1009.apk",
   "sha256": "",
-  "releaseNotes": "1.0.8: fixed the design of the entire project."
+  "releaseNotes": "1.0.9: changed to use react native geolocation."
 }
