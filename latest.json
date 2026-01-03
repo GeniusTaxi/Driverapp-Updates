@@ -1,7 +1,7 @@
 {
-  "versionCode": 1008,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/GeniusTaxi/Driverapp-Updates/releases/download/v1.0.8/app-1008.apk",
+  "versionCode": 1010,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/GeniusTaxi/Driverapp-Updates/releases/download/v1.0.10/app-1010.apk",
   "sha256": "",
-  "releaseNotes": "1.0.8: fixed the design of the entire project."
+  "releaseNotes": "1.0.10: The design was slightly changed, ride history now has breakdown etc."
 }
